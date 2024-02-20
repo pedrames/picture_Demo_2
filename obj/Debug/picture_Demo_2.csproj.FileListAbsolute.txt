@@ -1,0 +1,10 @@
+D:\c# programming\picture_Demo_2\bin\Debug\picture_Demo_2.exe.config
+D:\c# programming\picture_Demo_2\bin\Debug\picture_Demo_2.exe
+D:\c# programming\picture_Demo_2\bin\Debug\picture_Demo_2.pdb
+D:\c# programming\picture_Demo_2\obj\Debug\picture_Demo_2.csprojAssemblyReference.cache
+D:\c# programming\picture_Demo_2\obj\Debug\picture_Demo_2.Form1.resources
+D:\c# programming\picture_Demo_2\obj\Debug\picture_Demo_2.Properties.Resources.resources
+D:\c# programming\picture_Demo_2\obj\Debug\picture_Demo_2.csproj.GenerateResource.cache
+D:\c# programming\picture_Demo_2\obj\Debug\picture_Demo_2.csproj.CoreCompileInputs.cache
+D:\c# programming\picture_Demo_2\obj\Debug\picture_Demo_2.exe
+D:\c# programming\picture_Demo_2\obj\Debug\picture_Demo_2.pdb
